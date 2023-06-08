@@ -2,10 +2,7 @@ Nuestro primer commit
 
 c0
 
-Realizaremos la modificacion para el segundo commit
-
-c1 - rama main
-
+esta es nuestra nueva rama desarrollo 2
 
 
 
